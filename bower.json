@@ -14,7 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.9.1",
+    "jquery": "~2.1.*",
     "jquery_lazyload": "git@github.com:tuupola/jquery_lazyload.git",
     "jquery-scrollstop": "git@github.com:ssorallen/jquery-scrollstop.git",
     "jQuery-contextMenu": "~1.6.6",
@@ -32,7 +32,7 @@
     "viewerjs": "~0.5.5"
   },
   "resolutions": {
-    "jquery": "1.9.1",
+    "jquery": "~2.1.*",
     "bootstrap": "2.3.1"
   }
 }
